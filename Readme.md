@@ -1,7 +1,7 @@
 # CP 321 Project : Covid-19 in America
 This project is focused on tracking Covid-19 cases in the 7 days of March 2022 in each country of America. The data was collected from official government sources and compiled into a comprehensive map for analysis.
 
-This is a HTML and JavaScript code that creates a choropleth map showing COVID-19 cases in North and South America. The map is interactive, allowing the user to select between different options for viewing the data, such as viewing data from the current week or the previous week.
+Index.html contains HTML and JavaScript code that creates a choropleth map showing COVID-19 cases in North and South America. The map is interactive, allowing the user to select between different options for viewing the data, such as viewing data from the current week or the previous week.
 
 The code uses the D3.js library to create the map, and loads in data from two external sources: a JSON file containing geographical data, and a CSV file containing COVID-19 data for each country in the Americas.
 
